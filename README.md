@@ -1,4 +1,5 @@
 # Personal expenses app
 
 
-![123](https://user-images.githubusercontent.com/70882919/231464707-88c17a94-6bb1-44f6-bddb-85d702535ee7.gif)
+
+![untitled (2) (2)](https://user-images.githubusercontent.com/70882919/231465918-8029dbae-5142-48ef-a66f-97f656aade48.gif)
